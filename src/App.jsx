@@ -29,7 +29,7 @@ const App = () => {
     } 
 
   return (
-    <div className='bg-black  text-white h-screen lg:flex  '>
+    <div className='bg-black  text-white  lg:flex  '>
       <form action=""
             onSubmit={(e)=>{
               submitHandler(e)
